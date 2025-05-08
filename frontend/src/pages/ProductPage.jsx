@@ -1,0 +1,1 @@
+// ProductPage.jsx - Starter template
